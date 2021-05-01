@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Apbd2": {
+      "commandName": "Project",
+      "commandLineArgs": "Data\\dane.csv \"D:\\Magazyn\\EDU\\APBD\\cwiczenia\\cwiczenia2_jd-s18361\\Apbd2\\bin\\Debug\\net5.0\" json"
+    }
+  }
+}
